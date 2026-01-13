@@ -1,6 +1,7 @@
 name: e282
 description: A tool to prevent documentation rot.
 version: 0.1.0
+repository: https://github.com/mosuem/e282
 
 environment:
   sdk: ^3.10.0
